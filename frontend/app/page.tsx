@@ -23,7 +23,7 @@ declare global {
   }
 }
 
-const BACKEND_URL = "http://127.0.0.1:8000";
+const BACKEND_URL = "https://recoverai-7ucq.onrender.com";
 
 export default function Home() {
 
