@@ -785,29 +785,7 @@ to update the recovery queue.
 
 Step 8
 
-Use the Razorpay Test Mode integration to test the payment workflow.
-
-
----
-
-Screenshots
-
-Dashboard
-
-![RecoverAI Dashboard](screenshots/c:\Users\Niharika\OneDrive\Pictures\Screenshots\Screenshot 2026-09-01 160426.png)
-
-Transaction Analysis
-
-![Transaction Analysis](screenshots/c:\Users\Niharika\OneDrive\Pictures\Screenshots\Screenshot 2026-09-01 160501.png)
-
-Recovery Queue
-
-![Recovery Queue](screenshots/c:\Users\Niharika\OneDrive\Pictures\Screenshots\Screenshot 2026-09-01 160645.png)
-
-Razorpay Test Payment
-
-![Razorpay Test Payment](screenshots/c:\Users\Niharika\OneDrive\Pictures\Screenshots\Screenshot 2026-09-01 160539.png)
-
+Use the Razorpay Test Mode integration to test the payment workflow
 
 ---
 
